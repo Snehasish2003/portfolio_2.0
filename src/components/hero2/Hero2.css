@@ -1,0 +1,81 @@
+
+.hero2-img{
+    width: 100%;
+    height: 60vh;
+    position: relative;
+}
+.hero2-img img{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+}
+.hero2-img::after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #000;
+    opacity: 0.8;
+}
+.hero2{
+    height: 100%;
+    width: 100%;
+
+}
+.hero2 .hero2-main{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 30%;
+    left: 50%;
+    text-align: center;
+
+}
+
+.hero2 .hero2-main h1{
+    font-size: 3rem;
+  
+     padding: 0.6rem 0 0.3rem;
+
+}
+.hero2 .hero2-main p{
+    font-size: 1.4rem;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.hero-main .btn{
+    margin: 1rem 0.2rem;
+}
+.btn{
+    width: 90px;
+    height: 36px;
+    background: none;
+    box-sizing: border-box;
+    border: 1px solid;
+    background: rgb(231, 204, 53);
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.contact-btn{
+    background-color: transparent;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+}
+
+
+@media screen and (max-width: 768px) {
+  
+  
+    .hero2-main h1 {
+      font-size: 2.5rem;
+    }
+  
+    .hero2-main p {
+      font-size: 1.2rem;
+    }
+  }
