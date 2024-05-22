@@ -22,10 +22,10 @@ const Navbar = () => {
             <h2>Portfolio.</h2>
         </div>
         <div className={click ?"navbar-elements active":"navbar-elements"}>
-            <Link to="/" onClick={handelClicked}>Home</Link>
-            <Link to="/Projects" onClick={handelClicked}>Projects</Link>
-            <Link to="/About" onClick={handelClicked}>About</Link>
-            <Link to="/Contact" onClick={handelClicked}>Contact</Link>
+            <Link to="portfolio_2.0/" onClick={handelClicked}>Home</Link>
+            <Link to="portfolio_2.0/Projects" onClick={handelClicked}>Projects</Link>
+            <Link to="portfolio_2.0/About" onClick={handelClicked}>About</Link>
+            <Link to="portfolio_2.0/Contact" onClick={handelClicked}>Contact</Link>
         </div>
         <div className="hamburger">
         {!click ? 
