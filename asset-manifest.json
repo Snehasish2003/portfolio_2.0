@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio_2.0/static/css/main.b886f1bd.css",
+    "main.js": "/portfolio_2.0/static/js/main.7cb3d28b.js",
+    "static/media/pexels-pramod-tiwari-13620268.jpg": "/portfolio_2.0/static/media/pexels-pramod-tiwari-13620268.485177a2f2f5fd4d6103.jpg",
+    "static/media/project2.png": "/portfolio_2.0/static/media/project2.ce59fe1c823ec29f4dd0.png",
+    "static/media/project1.png": "/portfolio_2.0/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/project3.png": "/portfolio_2.0/static/media/project3.aefd7089f8fa104e3967.png",
+    "static/media/project4.png": "/portfolio_2.0/static/media/project4.167aedc420d239e4a396.png",
+    "static/media/intro-bg.jpg": "/portfolio_2.0/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/react1.jpg": "/portfolio_2.0/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/portfolio_2.0/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/portfolio_2.0/index.html",
+    "main.b886f1bd.css.map": "/portfolio_2.0/static/css/main.b886f1bd.css.map",
+    "main.7cb3d28b.js.map": "/portfolio_2.0/static/js/main.7cb3d28b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b886f1bd.css",
+    "static/js/main.7cb3d28b.js"
+  ]
+}
