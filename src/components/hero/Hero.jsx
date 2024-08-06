@@ -14,7 +14,7 @@ const Hero = () => {
           <h1>Full Stack Developer.</h1>
         </div>
         <div className="hero-btn">
-         <Link to="/Projects"> <button className='btn yellow' >PROJECTS</button></Link>
+         <Link to="portfolio_2.0/Projects"> <button className='btn yellow' >PROJECTS</button></Link>
          <Link to="/Contact"> <button className='contact-btn btn'>CONTACT</button></Link>
           
         </div>
